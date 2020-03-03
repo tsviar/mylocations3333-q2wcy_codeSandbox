@@ -1,7 +1,7 @@
 {
-  "name": "mylocations3333",
+  "name": "mylocations3333-q2wcy-codesandboxf",
   "version": "0.0.0",
-  "description": "An application for managing favorite locations  and categories, using GoogleMaps, local storage, context managers, React hooks and router and material-ui and a bit of styled-components",
+  "description": "",
   "main": "src/index.js",
   "homepage": "/",
   "author": "Tsvia-Hellen Rubin",
@@ -43,7 +43,12 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
